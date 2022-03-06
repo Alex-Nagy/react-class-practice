@@ -1,4 +1,4 @@
--like button
+-like button (in classes)
 - class components
 
 # Getting Started with Create React App
